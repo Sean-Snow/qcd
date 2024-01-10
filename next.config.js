@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: '/ccd/docs',
+    basePath: '/ccd',
     output: "export",
 }
 
